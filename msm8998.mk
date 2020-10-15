@@ -96,10 +96,6 @@ PRODUCT_PACKAGES += \
     audio.r_submix.default \
     audio.usb.default \
 
-# JamesDsp
-PRODUCT_PACKAGES += \
-    JamesDSPManager
-
 PRODUCT_PACKAGES += \
     libaudio-resampler \
     libhfp \
